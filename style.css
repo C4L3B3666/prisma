@@ -6,6 +6,10 @@
     box-sizing: border-box;
 }
 
+html {
+    overflow-x: hidden;
+}
+
 body {
     overflow-x: hidden;
     background: #0D0D0D;
@@ -283,6 +287,16 @@ header {
 }
 
 @media screen and (max-width: 768px) {
+
+    
+    html {
+        overflow-x: hidden;
+    }
+
+    body {
+        overflow-x: hidden;
+    }
+    
     header {
         margin: 0;
         width: 100vw;
