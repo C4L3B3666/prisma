@@ -288,7 +288,6 @@ header {
 
 @media screen and (max-width: 768px) {
 
-    
     html {
         overflow-x: hidden;
     }
@@ -296,7 +295,7 @@ header {
     body {
         overflow-x: hidden;
     }
-    
+
     header {
         margin: 0;
         width: 100vw;
